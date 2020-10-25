@@ -22,4 +22,5 @@ I am majoring in Computer Engineering, but coding is my new found passion and I 
 - 🌱 Currently Learning: Mobile App Development (Hybrid), Reinforcement Learning, Ethical Hacking
 - 📫 Contact: Linkedin: https://www.linkedin.com/in/seowglen/ Email: seow0109@e.ntu.edu.sg
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
