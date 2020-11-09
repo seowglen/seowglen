@@ -18,7 +18,7 @@ I'm Glen, a final year student from Nanyang Technological University!
 
 I am majoring in Computer Engineering, but I like coding and I would love to contribute and collaborate on interesting software projects!
 
-- 💻 Skills: Full-Stack Web Development, Data Science, Artificial Intelligence (Natural Language Processing, Computer Vision) 
+- 💻 Skills: Full-Stack Web Development, Data Science, Artificial Intelligence  
 - 🌱 Currently Learning: Mobile App Development (Hybrid), Reinforcement Learning, Ethical Hacking
 - 📫 Contact: Linkedin: https://www.linkedin.com/in/seowglen/ Email: seow0109@e.ntu.edu.sg
 
