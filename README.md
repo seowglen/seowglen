@@ -23,3 +23,4 @@ I am majoring in Computer Engineering, but I like coding and I would love to con
 - 📫 Contact: Linkedin: https://www.linkedin.com/in/seowglen/ Email: seow0109@e.ntu.edu.sg
 
 
+[![Top Langs](https://github-readme-stats.seowglen.vercel.app/api/top-langs/?username=seowglen&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
