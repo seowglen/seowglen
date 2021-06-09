@@ -22,7 +22,7 @@ I'm Glen, a final year student from Nanyang Technological University!
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seowglen&theme=dark&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💻 Skills: Full-Stack Web Development, Data Science, Artificial Intelligence  
-- 🌱 Currently Learning: Mobile App Development (Hybrid), Reinforcement Learning, Ethical Hacking
+- 🌱 Currently Learning: Mobile App Development (Hybrid), Blockchain Development
 - 📫 Contact: Linkedin: https://www.linkedin.com/in/seowglen/ Email: seow0109@e.ntu.edu.sg
 
 
