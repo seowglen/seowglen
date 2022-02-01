@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I'm Glen, a final year student from Nanyang Technological University!
 
 [![Spotify](https://novatorem.seowglen.vercel.app/api/spotify)](https://open.spotify.com/user/seowglen)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seowglen&show_icons=true&theme=dark&count_private=true)
-[![Top Langs](https://github-readme-stats-v2-seowglen.vercel.app/api/top-langs/?username=seowglen&hide=jupyter%20notebook&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seowglen&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats-v2-seowglen.vercel.app/api/top-langs/?username=seowglen&hide=jupyter%20notebook&theme=dark&langs_count=10&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seowglen&theme=dark&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💻 Skills: Full-Stack Web Development, Data Science, Artificial Intelligence  
